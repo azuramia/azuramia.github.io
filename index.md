@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Bienvenue dans l’univers enchanté de Lise and Stitch !
+Bienvenue dans mon univers enchanté !
 
 [Ma boutique Ravelry](https://www.ravelry.com/designers/lise-grandjonc), pour télécharger mes patrons d’amigurumis (en anglais et en français)
 
